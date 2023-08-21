@@ -5,7 +5,7 @@ _______________________________________________
 _______________________________________________
 # Sections
 Main Projects \
-Mini Projects \
+[Mini Projects](https://github.com/lvtierne/miniprojects) \
 Frontend Skills \
 Backend Skills \
 Contact 

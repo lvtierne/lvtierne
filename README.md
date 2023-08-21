@@ -4,7 +4,7 @@ _______________________________________________
 _______________________________________________
 _______________________________________________
 # Sections
-🖥 Main Projects \
+🖥 [Main Projects](https://github.com/lvtierne/mainprojects) \
 💻 [Mini Projects](https://github.com/lvtierne/miniprojects) \
 🖼 Frontend Skills \
 🔌 Backend Skills \

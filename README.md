@@ -8,7 +8,7 @@ Main Projects \
 Mini Projects \
 Frontend Skills \
 Backend Skills \
-Contact \
+Contact 
 
 **Main projects:**
   - ...

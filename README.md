@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @lvtierne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Welcome to my Profile ReadMe! 😊**
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+**My main projects:**
+  - ...
+  - ...
+  - ...
+_______________________________________________
+_______________________________________________
+**My mini projects:**
+- ...
+- ...
+- ...
+_______________________________________________
+_______________________________________________
+**Frontend Skills:**
+- languages:
+- tools:
+- frameworks
+
+**Backend Skills:**
+- languages:
+- tools:
+- frameworks
+_______________________________________________
+_______________________________________________
+
+Reach me:
+-
+-
+-
 
 <!---
 lvtierne/lvtierne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

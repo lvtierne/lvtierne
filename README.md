@@ -6,8 +6,10 @@ _______________________________________________
 # Sections
 🖥 [Main Projects](https://github.com/lvtierne/mainprojects) \
 💻 [Mini Projects](https://github.com/lvtierne/miniprojects) \
+📚 [Skill Projects](https://github.com/lvtierne/skillsprojects) \
 🖼 Frontend Skills \
 🔌 Backend Skills \
+
 🏆 Certificates \
 📪 Contact 
 

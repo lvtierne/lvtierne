@@ -11,7 +11,7 @@ _______________________________________________
 🔌 Backend Skills \
 
 🏆 Certificates \
-📪 Contact 
+📪 Contact \
 
 **Main projects:**
   - ...
@@ -39,8 +39,6 @@ _______________________________________________
 
 Reach me:
 - ✉️ Email: Laynietierney@gmail.com
--
--
 
 <!---
 lvtierne/lvtierne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

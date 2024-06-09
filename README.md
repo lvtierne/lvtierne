@@ -12,7 +12,6 @@
 ## Projects:
 🖥 [Main Projects](https://github.com/lvtierne/mainprojects) \
 💻 [Mini Projects](https://github.com/lvtierne/miniprojects) \
-📚 [Skill Projects](https://github.com/lvtierne/skillsprojects) \
 🖼 Frontend Skills \
 🔌 Backend Skills 
 
@@ -41,6 +40,14 @@ _______________________________________________
 - frameworks
 
 _______________________________________________
+## 🌟 [Coursework](https://github.com/lvtierne/coursework) 
+-
+-
+-
+-
+-
+- CS-499: Computer Science Capstone
+
 ## 🏆 Certificates:
 - CodeAcademy:
   - Software Engineer
@@ -49,7 +56,7 @@ _______________________________________________
 In my journey towards professional growth and technological mastery, I am setting my sights on pursuing a Master's degree in Software Engineering, with a specialized focus on AI and machine learning. This advanced academic endeavor represents not just a step towards enhancing my technical expertise, but also a commitment to being at the forefront of innovation. My goal is to harness this education to develop groundbreaking software solutions, pushing the boundaries of AI applications, and contributing significantly to the evolution of smart technologies in our increasingly digital world.
     
 ## 📫 Get in Touch:
-- Feel free to reach out for collaborations or just a chat about tech and software innovations.
+Feel free to reach out for collaborations or just a chat about tech and software innovations.
 - 🔭 I’m currently working on My Bachelors 
 - 📫 How to reach me: Email: Laynietierney@gmail.com
 

@@ -45,7 +45,7 @@ _______________________________________________
 -
 -
 -
--
+- cs-330: Computer Graphic and Visualization
 - CS-499: Computer Science Capstone
 
 ## 🏆 Certificates:

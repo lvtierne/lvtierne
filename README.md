@@ -7,7 +7,7 @@
 🌐 Proficient in Python, Java, C++, MySQL, JavaScript, React, HTML, and CSS.\
 📚 Committed to staying updated with the latest tech trends and advancements.
 
-## Projects:
+## Other Projects:
 🖥 [Main Projects](https://github.com/lvtierne/mainprojects) \
 💻 [Mini Projects](https://github.com/lvtierne/miniprojects) \
 🖼 Frontend Skills \

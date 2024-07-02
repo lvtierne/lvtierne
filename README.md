@@ -20,7 +20,7 @@ _______________________________________________
   - [SQLite Database Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip)
 _______________________________________________
 ### **Mini projects:**
-- [Minimalistic GPT-3.5 Chatbot Web Interface]
+- [Minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface)
 - ...
 - ...
 

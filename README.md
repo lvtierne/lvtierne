@@ -1,4 +1,4 @@
-# Hello there 👋, my name is Laynie Tierney!
+# 👋 Hello there, my name is Laynie Tierney!
 
 <div>                                    
     <a href="https://github.com/lvtierne" target="_blank">       
@@ -9,19 +9,26 @@
    </a>  
 </div>   
 
+##
 ## About Me:
 🎓 Computer Science student at Southern New Hampshire University.\
 💼 Aspiring Software Engineer.\
 🌐 Skilled in Python, Java, C++, MySQL, JavaScript, React, HTML, CSS.\
 📚 Tech enthusiast, always learning.
 
-## 🖥 [3 Main Projects:](https://github.com/lvtierne/mainprojects)
-  - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip) 
-  - [Binary Search Tree](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/BTS%20(Enhanced).zip)
-  - [SQLite Database Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip)
+##
+## 🖥 [Main Projects:](https://github.com/lvtierne/mainprojects)
+Main Projects include topics:
+- AI and Machine Learning: 
+  - [Binary Search Tree](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/BTS%20(Enhanced).zip): (project short description)
+- Web Development:
+  - [SQLite Database Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): (project short description)
+- DevOps and Automation
+  - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): (project short description)
 
+##
 ## 💻 [Mini Projects:](https://github.com/lvtierne/miniprojects)
-  - [Minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface)
+  - [Minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface): (project short description)
     - Used Tools:\
 [![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
@@ -68,20 +75,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-_______________________________________________
-## 🔥 Projects
-### AI and Machine Learning
-- **[Project Name](link to project)**: Brief description of the project, technologies used, and the problem it solves.
-- **[Project Name](link to project)**: Brief description of the project, technologies used, and the problem it solves.
-
-### Web Development
-- **[Project Name](link to project)**: Brief description of the project, technologies used, and the problem it solves.
-- **[Project Name](link to project)**: Brief description of the project, technologies used, and the problem it solves.
-
-### DevOps and Automation
-- **[Project Name](link to project)**: Brief description of the project, technologies used, and the problem it solves.
-- **[Project Name](link to project)**: Brief description of the project, technologies used, and the problem it solves.
   
 _______________________________________________
 ## 📈 GitHub Stats
@@ -89,17 +82,17 @@ _______________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvtierne&layout=compact&theme=radical)
 
 _______________________________________________
-## 🌟 [Coursework](https://github.com/lvtierne/coursework) 
+## 🌟 Coursework
 -
 -
 -
 -
-- CS-330: Computer Graphic and Visualization
+- CS-330: Computer Graphic and Visualization (use links to link the course with the repository related to)
 - CS-499: Computer Science Capstone
 
-## 🏆 Certificates:
+## 🏆 Certificates: 
 - CodeAcademy:
-  - Software Engineer
+  - Software Engineer (have separate images for each certificate or a separate folder with certificated downloaded) 
 
 ## 📈 Future Aspirations:
 In my journey towards professional growth and technological mastery, I am setting my sights on pursuing a Master's degree in Software Engineering, with a specialized focus on AI and machine learning. This advanced academic endeavor represents not just a step towards enhancing my technical expertise, but also a commitment to being at the forefront of innovation. My goal is to harness this education to develop groundbreaking software solutions, pushing the boundaries of AI applications, and contributing significantly to the evolution of smart technologies in our increasingly digital world.

@@ -1,5 +1,5 @@
+[Header]!!! from Portfolio idea ( clickable header that goes to my portfolio.
 # 👋 Hello there, my name is Laynie Tierney!
-
 <div>                                    
     <a href="https://github.com/lvtierne" target="_blank">       
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/lvtierne?label=Github&style=flat"> 

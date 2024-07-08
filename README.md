@@ -1,20 +1,29 @@
 # Hello there 👋, my name is Laynie Tierney!
-#### Aspiring Software Engineer
-##
-## About Me:
-🎓 I'm a driven Computer Science student at Southern New Hampshire University, with a keen interest in technology.\
-💼 Specializing in software engineering.\
-🌐 Proficient in Python, Java, C++, MySQL, JavaScript, React, HTML, and CSS.\
-📚 Committed to staying updated with the latest tech trends and advancements.
 
-### 🖥 [Main Projects:](https://github.com/lvtierne/mainprojects)
+<div>                                    
+    <a href="https://github.com/lvtierne" target="_blank">       
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/lvtierne?label=Github&style=flat"> 
+    </a>        
+    <a href="https://github.com/lvtierne" target="_blank">   
+        <img src="https://komarev.com/ghpvc/?username=lvtierne&label=Profile%20views&color=0e75b6&style=flat" alt="zainsadaqat" />
+   </a>  
+</div>   
+
+## About Me:
+🎓 Computer Science student at Southern New Hampshire University.\
+💼 Aspiring Software Engineer.\
+🌐 Skilled in Python, Java, C++, MySQL, JavaScript, React, HTML, CSS.\
+📚 Tech enthusiast, always learning.
+
+## 🖥 [3 Main Projects:](https://github.com/lvtierne/mainprojects)
   - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip) 
   - [Binary Search Tree](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/BTS%20(Enhanced).zip)
   - [SQLite Database Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip)
 
-### 💻 [Mini Projects:](https://github.com/lvtierne/miniprojects)
+## 💻 [Mini Projects:](https://github.com/lvtierne/miniprojects)
   - [Minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface)
-    - [![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
+    - Used Tools:\
+[![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)

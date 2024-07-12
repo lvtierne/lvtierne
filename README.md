@@ -19,16 +19,13 @@
 ##
 ## 🖥 [Main Projects:](https://github.com/lvtierne/mainprojects)
 Main Projects include topics:
+- Front-End Development
+  - Personal Portfolio Website
 - AI and Machine Learning: 
-  - [Binary Search Tree](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/BTS%20(Enhanced).zip): (project short description)
+  - [Binary Search Tree](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/BTS%20(Enhanced).zip): Implementing and optimizing a binary search tree for efficient data retrieval and storage.
 - Web Development:
   - [SQLite Database Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): (project short description)
-- DevOps and Automation
-  - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): (project short description)
-
-##
-## 💻 [Mini Projects:](https://github.com/lvtierne/miniprojects)
-  - [Minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface): (project short description)
+  - [Minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface): A web interface for a GPT-3.5 chatbot.
     - Used Tools:\
 [![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
@@ -36,8 +33,8 @@ Main Projects include topics:
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-Integration-yellowgreen)](https://platform.openai.com/)
-  - ...
-  - ...
+- DevOps and Automation
+  - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): Automated inventory management system using SQLite and Python for efficient tracking and management.
 
 ##
 ## 🛠️ Languages and Tools

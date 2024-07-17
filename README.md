@@ -83,7 +83,16 @@ _______________________________________________
 -
 - CS-210: Programming Languages
 - CS-230: Operating Platforms
--
+- CS-250: Software Development Lifecycle
+- CS-255: System Analysis and Design
+- CS-300: Modeling and Simulations for the Sciences
+- CS-305: Software Security
+- CS-320: Software Testing, Automation, and Quality Assurance
+- CS-330: Computational Graphics and Visualization 
+- CS-340: Advanced Programming Concepts
+- CS-350: Emerging Systems Architectures & Technologies
+- CS-360: Mobile Architecture and Programming
+- CS-370: Current/Emerging Trends in CS
 - CS-330: Computer Graphic and Visualization 
 - CS-499: Computer Science Capstone
 

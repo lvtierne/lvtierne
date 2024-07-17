@@ -81,10 +81,10 @@ _______________________________________________
 _______________________________________________
 ## 🌟 Coursework
 -
+- CS-210: Programming Languages
 -
 -
--
-- CS-330: Computer Graphic and Visualization (use links to link the course with the repository related to)
+- CS-330: Computer Graphic and Visualization 
 - CS-499: Computer Science Capstone
 
 ## 🏆 Certificates: 

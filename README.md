@@ -82,7 +82,7 @@ _______________________________________________
 ## 🌟 Coursework
 -
 - CS-210: Programming Languages
--
+- CS-230: Operating Platforms
 -
 - CS-330: Computer Graphic and Visualization 
 - CS-499: Computer Science Capstone

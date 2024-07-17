@@ -80,7 +80,6 @@ _______________________________________________
 
 _______________________________________________
 ## 🌟 Coursework
--
 - CS-210: Programming Languages
 - CS-230: Operating Platforms
 - CS-250: Software Development Lifecycle

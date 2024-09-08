@@ -9,14 +9,14 @@
    </a>  
 </div>   
 
-##
-## About Me:
+# About Me:
 🎓 Computer Science student at Southern New Hampshire University.\
 💼 Aspiring Software Engineer.\
 🌐 Skilled in Python, Java, C++, MySQL, JavaScript, React, HTML, CSS.\
 📚 Tech enthusiast, always learning.
-
 ##
+<br><br><br><br><br><br>
+
 ## 🖥 [Main Projects:](https://github.com/lvtierne/mainprojects)
 Main Projects include topics:
 - Front-End Development

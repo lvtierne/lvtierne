@@ -1,3 +1,7 @@
+[![image](https://github.com/user-attachments/assets/23f45c8a-fb20-435a-89d7-85822dfbf830)](https://lvtierne-portfolio-website.netlify.app/)
+
+
+
 [Header]!!! from Portfolio idea ( clickable header that goes to my portfolio.
 # 👋 Hello there, my name is Laynie Tierney!
 <div>                                    

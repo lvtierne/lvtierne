@@ -85,15 +85,13 @@ Main Projects include topics:
 ##
 <br><br><br>
 
-## 🏆 Certificates: 
-- CodeAcademy:
-  - Software Engineer (have separate images for each certificate or a separate folder with certificated downloaded) 
-
 ## 📈 Future Aspirations:
 In my journey towards professional growth and technological mastery, I am setting my sights on pursuing a Master's degree in Software Engineering, with a specialized focus on AI and machine learning. This advanced academic endeavor represents not just a step towards enhancing my technical expertise, but also a commitment to being at the forefront of innovation. My goal is to harness this education to develop groundbreaking software solutions, pushing the boundaries of AI applications, and contributing significantly to the evolution of smart technologies in our increasingly digital world.
-    
+##
+<br><br><br>
+
 ## 📫 Get in Touch:
 Feel free to reach out for collaborations or just a chat about tech and software innovations.
-- How to reach me: [![Laynietierney@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Laynietierney@gmail.com), [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laynie-tierney-9b847a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app![image](https://github.com/lvtierne/lvtierne/assets/136281319/63d66a1f-1dff-4da1-87da-89389da638be)
+- Reach me Here: [![Laynietierney@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Laynietierney@gmail.com), [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laynie-tierney-9b847a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app![image](https://github.com/lvtierne/lvtierne/assets/136281319/63d66a1f-1dff-4da1-87da-89389da638be)
 )
 

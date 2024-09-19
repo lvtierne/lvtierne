@@ -10,12 +10,15 @@
 </div>   
 
 # About Me:
-🎓 Computer Science student at Southern New Hampshire University.\
-💼 Aspiring Software Engineer.\
-🌐 Skilled in Python, Java, C++, MySQL, JavaScript, React, HTML, CSS.\
+🎓 Computer Science concentration in Software Engineering Grad. at Southern New Hampshire University.\
+💼 Aspiring  AI and Machine Learning Software Engineer.\
+🌐 Skilled in Python, JavaScript, Java, C++, React, Django, MongoDB, TailwindCSS, Node.js+Express.js & PostgreSQL or SQLite.\
 📚 Tech enthusiast, always learning.
 ##
-<br><br><br><br><br><br>
+<br><br><br><br>
+
+# Check out Recent Projects:
+-[blog link]
 
 ## 🖥 [Main Projects:](https://github.com/lvtierne/mainprojects)
 Main Projects include topics:
@@ -37,7 +40,7 @@ Main Projects include topics:
   - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): Automated inventory management system using SQLite and Python for efficient tracking and management.
 
 ##
-## 🛠️ Languages and Tools
+# Here Are Some Languages and Tools I Enjoy!
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -72,28 +75,11 @@ Main Projects include topics:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  
-_______________________________________________
+
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lvtierne&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvtierne&layout=compact&theme=radical)
 
-_______________________________________________
-## 🌟 Coursework
-- CS-210: Programming Languages
-- CS-230: Operating Platforms
-- CS-250: Software Development Lifecycle
-- CS-255: System Analysis and Design
-- CS-300: Modeling and Simulations for the Sciences
-- CS-305: Software Security
-- CS-320: Software Testing, Automation, and Quality Assurance
-- CS-330: Computational Graphics and Visualization 
-- CS-340: Advanced Programming Concepts
-- CS-350: Emerging Systems Architectures & Technologies
-- CS-360: Mobile Architecture and Programming
-- CS-370: Current/Emerging Trends in CS
-- CS-330: Computer Graphic and Visualization 
-- CS-499: Computer Science Capstone
 
 ## 🏆 Certificates: 
 - CodeAcademy:
@@ -104,11 +90,6 @@ In my journey towards professional growth and technological mastery, I am settin
     
 ## 📫 Get in Touch:
 Feel free to reach out for collaborations or just a chat about tech and software innovations.
-- 🔭 I’m currently working on My Bachelors 
-- 📫 How to reach me: [![Laynietierney@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Laynietierney@gmail.com), [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laynie-tierney-9b847a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app![image](https://github.com/lvtierne/lvtierne/assets/136281319/63d66a1f-1dff-4da1-87da-89389da638be)
+- How to reach me: [![Laynietierney@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Laynietierney@gmail.com), [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laynie-tierney-9b847a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app![image](https://github.com/lvtierne/lvtierne/assets/136281319/63d66a1f-1dff-4da1-87da-89389da638be)
 )
 
-<!---
-lvtierne/lvtierne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -14,7 +14,7 @@
 💼 Aspiring  AI and Machine Learning Software Engineer.\
 🌐 Skilled in Python, JavaScript, Java, C++, React, Django, MongoDB, TailwindCSS, Node.js+Express.js & PostgreSQL or SQLite.\
 📚 Tech enthusiast, always learning.
-##
+
 
 # Check out Recent Projects:
 ## 🖥 [Main Projects:](https://github.com/lvtierne/mainprojects)
@@ -35,7 +35,7 @@ Main Projects include topics:
 [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-Integration-yellowgreen)](https://platform.openai.com/)
 - DevOps and Automation
   - [Inventory Management](https://github.com/lvtierne/mainprojects/blob/main/Enhanced%20Projects/SQLite%20Database%20Management%20Project.zip): Automated inventory management system using SQLite and Python for efficient tracking and management.
-##
+
 
 # Languages and Tools:
 ### Programming Languages
@@ -72,13 +72,12 @@ Main Projects include topics:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-##
+
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lvtierne&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvtierne&layout=compact&theme=dark)
 ##
-<br>
 
 ## 📈 Future Aspirations:
 In my journey towards professional growth and technological mastery, I am setting my sights on pursuing a Master's degree in Software Engineering, with a specialized focus on AI and machine learning. This advanced academic endeavor represents not just a step towards enhancing my technical expertise, but also a commitment to being at the forefront of innovation. My goal is to harness this education to develop groundbreaking software solutions, pushing the boundaries of AI applications, and contributing significantly to the evolution of smart technologies in our increasingly digital world.

@@ -1,13 +1,12 @@
-# Hey, I’m Laynie Tierney 👋 
-DevSecOps dynamo | AI innovator | Space tech dreamer. 
+# Hey, I’m Laynie Tierney 👋  
+DevSecOps (5mo) | Full-Stack vet (3yr) | Coding my way to Mars!  
 
-- ⚙️ Streamlining work with [`work-hack`](https://github.com/lvtierne/work-hack). 
-- 🚀 Colonizing Mars with [`mars-dash`](https://github.com/lvtierne/mars-dash). 
-- 📜 AWS Associate cert in my sights—domination mode on. 
-- 🌌 Past feats: `opti-pipe`, `cloud-predict`. 
+- 🛠️ Rocking CI/CD with [`fast-pipeline`](https://github.com/lvtierne/fast-pipeline)—Day 1 live.  
+- 🌌 Sparking space tech with [`quick-blink`](https://github.com/lvtierne/quick-blink)—blinking to the stars.  
+- 🎯 Mission: Automate Earth, conquer Mars—full throttle!  
 
-**Connect:** [@LaynieTierney](https://x.com/LaynieTierney) | [LinkedIn](https://linkedin.com/in/laynietierney) <br>
-**Vibe:** *To the stars, DOGE-style—one pipeline at a time!* 
+**Connect:** [@LaynieTierney](https://x.com/LaynieTierney)  <br>
+**Vibe:** *To the moon & beyond—DOGE hustle in my code!*  
 
 
 

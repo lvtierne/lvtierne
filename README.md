@@ -6,7 +6,7 @@ DevSecOps dynamo | AI innovator | Space tech dreamer.
 - 📜 AWS Associate cert in my sights—domination mode on. 
 - 🌌 Past feats: `opti-pipe`, `cloud-predict`. 
 
-**Connect:** [@LaynieTierney](https://x.com/LaynieTierney) | [LinkedIn](https://linkedin.com/in/laynietierney) 
+**Connect:** [@LaynieTierney](https://x.com/LaynieTierney) | [LinkedIn](https://linkedin.com/in/laynietierney) <br>
 **Vibe:** *To the stars, DOGE-style—one pipeline at a time!* 
 
 
